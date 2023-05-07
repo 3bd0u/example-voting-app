@@ -1,0 +1,2107 @@
+[33mcommit 8d9c28f4565382340601ca208ed1839a75f1af7e[m[33m ([m[1;36mHEAD -> [m[1;32mpull[m[33m, [m[1;31morigin/pull[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 14:22:52 2022 -0700
+
+    Update app.py
+
+[33mcommit af0316fcd467907bae473942e5a57ced67eeccd5[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 14:04:39 2022 -0700
+
+    Update app.py
+
+[33mcommit 142f59e3fb9d998bab1d14fc928b04c6f3faa2a1[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 14:00:20 2022 -0700
+
+    switched chocolate to garlic
+
+[33mcommit c9eed9f367b761481e2a43f7020a5fabd16e17cb[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 12:19:49 2022 -0700
+
+    Update app.py
+
+[33mcommit bbebe0427eb8496d74e3e3b73b66c4435efa435e[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 12:19:04 2022 -0700
+
+    changed background back and buttons
+
+[33mcommit 25f7e749111f625b098ad832f6792f777d636579[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 12:12:07 2022 -0700
+
+    added back bootsrap
+
+[33mcommit 26f1527f20c4b9ca130e832b439b9a0f60ac779c[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 12:03:46 2022 -0700
+
+    Update app.py
+
+[33mcommit c13c9329e8001b7e928a36079de6b0e46185fefa[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 12:03:21 2022 -0700
+
+    line 9 31 35 changed color to #ff0000
+
+[33mcommit d7dba893a7481733e66944e4b24c28b556b235b2[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 11:48:56 2022 -0700
+
+    switched okapetanios python image
+
+[33mcommit 7a67692e2bacc805472c0d63e1a594276ac3e31e[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 10:48:35 2022 -0700
+
+    deleted bootsrap url line 11
+
+[33mcommit edb4fe5a88bbe0f901d123aa20d44ba4ac480c75[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Aug 16 06:30:09 2022 -0700
+
+    switched line 1 - 8 to official image
+
+[33mcommit 2d3ded84e10f63672c11f516043dc5e302d1b38b[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 21:24:36 2022 -0700
+
+    restored to original
+
+[33mcommit 47de2da9a227bc7d4098e2015f09f9efef675b32[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 21:14:35 2022 -0700
+
+    lions tigers >> yankees giants
+
+[33mcommit 1e0397499092cf1c24984de489444d9ae3198546[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 21:13:33 2022 -0700
+
+    delete almost everything
+
+[33mcommit b7dfb7b21ff8438473829d1fa141fc88ec7eb0e5[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 21:04:27 2022 -0700
+
+    30,34 button.a and button.b > #a #b
+
+[33mcommit 624afa72f6176c1b4df4811a313077bddae7f2fb[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 20:56:52 2022 -0700
+
+    line 9 background color to red
+
+[33mcommit 26a6312ee85795da736c2590c5237606d9aa6a8c[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 20:50:50 2022 -0700
+
+    Cats Dogs >> Lions Tigers
+
+[33mcommit 9d260f8cb2d55a5408019709b14c45660954c218[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Mon Aug 15 20:38:15 2022 -0700
+
+    line 31, 35 changed buttons to red
+
+[33mcommit 6b5eb9e2e068831814f28f526101b341f09d864c[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 22:27:19 2022 -0700
+
+    Removed v from vote tag line 208
+
+[33mcommit 5b09b18bf1f259d3ed6b962a94e7be5aba94b1e9[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 22:15:55 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit f3a804fdf39121951ad8a5693080e3d5e1604bc8[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 22:03:44 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit a8c96bbf848bc9a0c5f23feeb5f379cbb9b6189f[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 22:01:24 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit b7e678c0f261c338cdea684cd6c85fd03e8058d9[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 17:38:58 2022 -0700
+
+    added steps to 266
+
+[33mcommit dd1cec9d330577354e9f0e09f1cb678f5828c6c3[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 17:23:21 2022 -0700
+
+    trigger deployment stage 265
+
+[33mcommit 95111f8f9d2fa613ead31816a4d7915c1b830e73[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 13:55:03 2022 -0700
+
+    added stage update git also changesets for sonar
+
+[33mcommit b03a08da975de8598f5570260acbe79c3079dc74[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 10:06:40 2022 -0700
+
+    deleted argo stage
+
+[33mcommit 0cdff228d88df73d8409b73a7e709a637b81cb40[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 28 09:55:11 2022 -0700
+
+    Created Jenkinsfile
+
+[33mcommit dedba58fe10e0172bd4e111ee4ac48b8d63dda6c[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 22:21:32 2022 -0700
+
+    rolled back away from container tools
+
+[33mcommit 100f4ef7b44ed9bda31e1db52ae392f13e248ac1[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 20:37:58 2022 -0700
+
+    added container tools and switched to agent any
+
+[33mcommit 5772c38d6d4bffe29646254c0afa44d0bd76c6f4[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 20:29:47 2022 -0700
+
+    238 added sudo back in
+
+[33mcommit 10c3b7eb4d7cd509572b69e2541bbe6781deb96e[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 20:08:53 2022 -0700
+
+    took out sudo 238
+
+[33mcommit 1edc8b6d1ab92f33ebcf25ed50870c93347a0b73[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 19:55:02 2022 -0700
+
+    switched to okapetanios ubuntuforcd image
+
+[33mcommit 8ff41ceb09b59d08b0ab638f01c0d5923dc738f1[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:38:45 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit f49d1ff6345b53ab302921317873897bfca1bb91[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:35:20 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit 1ddb1a86c19e68d7a10d79fd29c65a290e72ae8a[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:29:54 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit cd2f94a38c2b9387286effbb1b8e98bd3b9188c2[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:24:09 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit ae6afe8d658c2f3ca6f8823347da60483f8e2d80[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:19:20 2022 -0700
+
+    Update Jenkinsfile
+
+[33mcommit 87348bd2013a44a619909de8ddcb946910590a46[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:16:23 2022 -0700
+
+    switched to ubuntu 18.04 ARGO CD image
+
+[33mcommit 5ecd69daedf9536eba794ae7669cde5a4c732eae[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:11:26 2022 -0700
+
+    switched to apt from apt get
+
+[33mcommit 9c5cb4b6f80f5d821b088877237f892db3f302db[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jul 27 00:00:08 2022 -0700
+
+    bash latest
+
+[33mcommit 8c8468dec32c2f580869200d44fe3b4c49c5591e[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 23:48:33 2022 -0700
+
+    added git install to Argo CD stage
+
+[33mcommit 5391b62fceca7655d67d828bdab044590ed682c7[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 21:11:25 2022 -0700
+
+    221
+
+[33mcommit 774e33267cb0297da49f4884f3bacd29c0b67bc4[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 21:10:32 2022 -0700
+
+    221 changed image
+
+[33mcommit 77fa3047f322856d645b5e601fd3a11664ec80a9[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 20:48:48 2022 -0700
+
+    sudo to line 37
+
+[33mcommit e1f4bbe53e960d87f29cfe664fce204d53b0a13b[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 20:42:24 2022 -0700
+
+    227 removed https as it is already 236
+
+[33mcommit b39a16d7b796cd7ed0dac10e5b344d508f68f601[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 20:37:00 2022 -0700
+
+    got rid of changeset in ARGO CD stage
+
+[33mcommit 5d244793d99e62f25cb7a36faf9f78ec3a36d93c[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 20:36:16 2022 -0700
+
+    deleted vote-docker-package changeset
+
+[33mcommit 8d7da8b89c121d85a0b8996dca76230103a25285[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 20:25:57 2022 -0700
+
+    commented out conditional and script for ARGOCD
+
+[33mcommit f430cc19a576a48811c37de0f5565ec651abfab1[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 12:43:33 2022 -0700
+
+    ln 256 pared down yq to one line
+
+[33mcommit 143379f8a79eabc2c7bd5366cee1b0233063f55f[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 11:23:33 2022 -0700
+
+    8-9 emacs vim -> cats dogs
+
+[33mcommit 33da622d49bbdfe2a3492e74fd399c4fce145084[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 11:21:56 2022 -0700
+
+    changed values.yaml > vote-ui-deployment.yaml
+
+[33mcommit e76ac9e7756811aa0ca74ba2f40c5dcedfd91c27[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 11:02:01 2022 -0700
+
+    Changed Jenkins github credentials for argocd repo
+
+[33mcommit a55db12b65bb188b65ff035953b0188ef8876614[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Jul 26 09:34:23 2022 -0700
+
+    Added argocd repo image update
+
+[33mcommit bfbdb5ecf6971961f87b42f375d3b0c8ef6f556a[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 7 09:28:51 2022 -0700
+
+    Update README.md
+
+[33mcommit 22a597856f0d8210c1c71b4dd8576d2803c14d87[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 7 09:27:38 2022 -0700
+
+    Update README.md
+
+[33mcommit 29fa78d55db286cd2f8a3b8345bdd1527eb82886[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Thu Jul 7 09:16:30 2022 -0700
+
+    Update README.md
+
+[33mcommit ed7285a2188d58518e3a24f3607857052b9a62ba[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Sat Jun 4 12:27:34 2022 -0700
+
+    Changed Jenkinsfile to simple pipeline example
+
+[33mcommit d9192c3ccbd12cb8cb23caa3e164a0f04bea43e6[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jun 1 16:23:24 2022 -0700
+
+    triggering test build for jenkins statuses on coms
+
+[33mcommit fa7758649938e2bc691634305e6d7152604af414[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jun 1 16:07:37 2022 -0700
+
+    added jenkins statuses
+
+[33mcommit ae2492c5c21bffb69a254e22b7bf5eb031840383[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Jun 1 16:00:15 2022 -0700
+
+    adding readme
+
+[33mcommit ad0f212fd3c9a012de490b5d7bde0039a208660d[m
+Author: ericegan <eegan@linuxfoundation.org>
+Date:   Tue May 31 19:17:03 2022 +0000
+
+    added line to pom.xml
+
+[33mcommit 9d87503eba59765f2881f24e3ae4951963c54872[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 21 20:36:56 2022 -0700
+
+    added postgres trust env to e2e dockercompyaml
+
+[33mcommit a6a41b76a184be70a621fbae619d2f341c629b0c[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 21 19:43:16 2022 -0700
+
+    added back hyphen because dind and jenkins containers have docker-compose
+
+[33mcommit a0632b87c095dc7e58e44dde7a4b603944e06a8c[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 21 19:38:28 2022 -0700
+
+    removed docker compose hyphen in script and added vote integration tests to root Jfile
+
+[33mcommit d7f296d769562b63cfb6c854c64b3ba5499c4e9c[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 21 10:54:35 2022 -0700
+
+    added line 20 in root jf to trigger pipeline
+
+[33mcommit 5faf25bebfec658367a747f2642285169aa31a10[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 22:00:33 2022 -0700
+
+    added tool to sonarpath
+
+[33mcommit 5ab342d4af6776c451b72c65cc13ffdacbca4c85[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 21:51:22 2022 -0700
+
+    changed to sonar-example-voting-app withSOnarQubeEnv
+
+[33mcommit 0fc0e477cb2fdb88f366df8b0e3c4b1ab87f0ba5[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 21:48:17 2022 -0700
+
+    changed to example-voting-app withSOnarQubeEnv
+
+[33mcommit c53ae4dcd4f6ba8cafc5fc585d61d9189b2b8e03[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 21:44:13 2022 -0700
+
+    added JDK11 tool and changed to SonarScanner
+
+[33mcommit ac3a3c15cdefc3e1b5345ad650c6488a8ba9e30c[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 21:35:00 2022 -0700
+
+    updated jf withSonarQubeEnv SonarScanner
+
+[33mcommit f0779d67260b7058099530c1080eb3c29d757b0c[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:59:46 2022 -0700
+
+    updated jf withSonarQubeEnv sonar-example-voting-app
+
+[33mcommit bab7fa415de75bc03adb6c28c8cfdaa74960ec85[m
+Merge: 041308a 42aa7c9
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:54:05 2022 -0700
+
+    Merge branch 'master' of https://github.com/okapetanios/example-voting-app
+
+[33mcommit 041308ab1530f92191b577de1a77c943b24864d1[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:53:54 2022 -0700
+
+    updated sonar props
+
+[33mcommit 42aa7c97b1f44647a9e46205a90f4d1a9c0b1eb9[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Wed Apr 20 20:39:25 2022 -0700
+
+    Added Jenkinsfile
+
+[33mcommit 4161c1b97dc38a5b56af8cebdf6ea5ee41ccf915[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:31:26 2022 -0700
+
+    moved sonar stages above deploy in jf
+
+[33mcommit 8a986ec63e32fc9c9c5b045c4cf5044c1407fb79[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:15:37 2022 -0700
+
+    updadted project name in sonar properties
+
+[33mcommit e48d68b47f40e1bdd6efc00ea50b417d6b9c71d1[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 20:08:34 2022 -0700
+
+    updated sonar-project.properties
+
+[33mcommit 377744cbd31a4c3b77fa4912f8b5b33ae4b635e1[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 19:55:37 2022 -0700
+
+    commented out JDK11 add since I dont need it
+
+[33mcommit ed1b68c23ae3ccd1e03433d307c87b53a2fe6ba1[m
+Merge: e275b27 dd349ba
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 19:53:46 2022 -0700
+
+    Merge branch 'master' of https://github.com/okapetanios/example-voting-app
+
+[33mcommit e275b278690b2238f6907229dcb1b54d832d6fa4[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 20 19:53:22 2022 -0700
+
+    added sonarqube stages to root jf
+
+[33mcommit dd349ba609131ac8e8e0d16a726c7306fa4f99f3[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Apr 19 15:08:25 2022 -0700
+
+    added hyphen
+
+[33mcommit 9a4539254eb2a13eb64f2b822c93c3e175775b76[m
+Author: eric egan <36870093+okapetanios@users.noreply.github.com>
+Date:   Tue Apr 19 14:39:38 2022 -0700
+
+    blue ocean pipeline
+
+[33mcommit 9108f2916e4eddb1390f4da10cb00034a6716539[m
+Author: eric <ericegan@live.com>
+Date:   Tue Apr 19 13:50:36 2022 -0700
+
+    deploy to dev and changed ports in yaml
+
+[33mcommit 2cbd95badeba043a201b577280fe161fd89f33bf[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:49:19 2022 -0700
+
+    removed hyphen from docker compose
+
+[33mcommit ec4dc7728720915b4ace840f92e85915dccde170[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:45:50 2022 -0700
+
+    Jenkinsfile consolidated pipeline added deploy to dev
+
+[33mcommit 4561e071006b247413a04ed8fe5b43e64e356664[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:37:05 2022 -0700
+
+    consolidated pipeline
+
+[33mcommit 4d2ac73d3af27f7cb8a851c433e65bc6ef1d5567[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:33:42 2022 -0700
+
+    consolidated pipeline
+
+[33mcommit b734f334123bbcb91ba5525f8ac3b1659782f452[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:16:17 2022 -0700
+
+    vote, worker, result, Jenkinsfiles for multipipe through lab 7 all working
+
+[33mcommit 2f2768758330b81f2fb891afc3fad6ba49073d28[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:09:39 2022 -0700
+
+    autoformat result and worker jf and changed in all three apps to test all pipelines
+
+[33mcommit 27768570bdd5a55fae1582f7221f33e3096d0567[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 20:00:30 2022 -0700
+
+    test after auto linting vote
+
+[33mcommit feb358f7e85eadfad564912e8a2028fe8b79ad81[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:54:42 2022 -0700
+
+    removed --user for pip install in stages
+
+[33mcommit 617caf2750b3615aac9d2f2adc77306776f16cf5[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:47:22 2022 -0700
+
+    added args --user root to docker agents vote
+
+[33mcommit ef2465b0299640a41255feb3cef0a82f4d01aa2e[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:44:56 2022 -0700
+
+    added pip show nose path to PATH in withEnv array
+
+[33mcommit 639de9a54677e0cc913a382385b07beeb4bf0202[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:40:54 2022 -0700
+
+    added pip show nose path to PATH
+
+[33mcommit 6cddabd25756d33046cab41736711dde56d1ec60[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:31:11 2022 -0700
+
+    pip show nose
+
+[33mcommit d1fe672655aa755acc8a04f75cbf40cf04f87b50[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:30:00 2022 -0700
+
+    switched back to nose
+
+[33mcommit a9ca1d4a13f4c5f428bcb357d2368a515e0ecc12[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:14:20 2022 -0700
+
+    switched to nose2
+
+[33mcommit c859de57000979593d01e9962dfd683f021fc970[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:10:17 2022 -0700
+
+    added cd /usr/local/bin
+
+[33mcommit 776619fb26376c25a006bd1923959664d2f82aad[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:05:16 2022 -0700
+
+    added cd /usr/bin
+
+[33mcommit 0a56aceec5d9761a1e72cdcb55c702e15d4f3ee3[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 19:01:18 2022 -0700
+
+    find nosetests comman dir command
+
+[33mcommit c854d8f05a7bd7b0e18bde02628aa12e14458992[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:58:54 2022 -0700
+
+    added echo path
+
+[33mcommit 345114f48260c1dab0628010ec53898723154246[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:55:05 2022 -0700
+
+    added easy_install nosetests -v
+
+[33mcommit 53b0b8248e5918e0cfdd29065cc928ed48585cd8[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:29:25 2022 -0700
+
+    moved nosetests -v inside withEnv
+
+[33mcommit a70a86f89de2fe044474ec548df6574e1610aa61[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:27:24 2022 -0700
+
+    added withEnv line to test stage in vote
+
+[33mcommit f03a2df9dc0a59bdbb005c83b0718fb903f4bf7e[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:19:13 2022 -0700
+
+    added withEnv line
+
+[33mcommit 65b4ddc5406c370c842ebd74abf5fbce032bd1ff[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:05:30 2022 -0700
+
+    added sudo -H to pip install
+
+[33mcommit 7a51322c5778c5b4653ba2a6a292739a5d434d57[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 18:03:34 2022 -0700
+
+    added user root
+
+[33mcommit aabc9a56a1171640424b9964ae23abdfe6a89740[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:58:14 2022 -0700
+
+    switched back to 2.7 slim, added whoami for --user
+
+[33mcommit 649ebc0a7088a4235ed7a4e3e4aa736ee0911e8e[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:52:13 2022 -0700
+
+    switched to alpine python 2.7 version
+
+[33mcommit 891d50940ef99ceb1df0097aa6947385372f9e82[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:51:04 2022 -0700
+
+    switched to alpine python 2.7 version
+
+[33mcommit 16fc3c4ed104e99db8c9d6f93b5e2c7f9114f324[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:38:37 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit 97377405a9e287b9c310f9ef76fa843031031cc1[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:18:02 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit 4db6d8a83422ca44db17ca638e8668bb6da495d3[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:16:38 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit 173d534b080a779709b994778266c92288475727[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:14:58 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit 3b192f5f9e53aa4531690f19a104d4da746356ea[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:11:42 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit cf485e580a2da7653779c74b889f759e291df697[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:08:11 2022 -0700
+
+    added --user to vote jfile
+
+[33mcommit 178d9b523a812c429f67eceed79494977a244c24[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 17:04:19 2022 -0700
+
+    added --upgrade pip to vote jenkinsfile, corercted vote to result in result file
+
+[33mcommit a7b8cea4e1a4fb117e3904d8272fd301dc5b638d[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 16:57:25 2022 -0700
+
+    added --user to RUN vote dockfile
+
+[33mcommit 04007394576e5e94d8a4bbb53a284b0888eeb041[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 16:52:06 2022 -0700
+
+    added --upgrade pip to RUN vote dockfile
+
+[33mcommit a2e5fd07fb7af7a2e85b0ba95b9812d2533f1ea0[m
+Author: eric <ericegan@live.com>
+Date:   Mon Apr 18 16:03:17 2022 -0700
+
+    worker, result, vote jenkfile and dockcompyaml complete
+
+[33mcommit 0f4a7200bbe4361480cf435987234ac128901c01[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 14 12:05:09 2022 -0700
+
+    changed maven image to jdk11 in worker/jfile
+
+[33mcommit e69b7ab39e43484e307cf702f3ff59526ddcb4c6[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 14 12:03:23 2022 -0700
+
+    workerjenkinsfile updated to lab 7 complete
+
+[33mcommit e275ac1b5ce6e2b5fe09dc299a88b23a4a25e8f8[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 14 08:55:09 2022 -0700
+
+    built worker image added worker test 19 to trigger build
+
+[33mcommit faf71ea8316f0d908798c857c87a9021d2653567[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 21:33:49 2022 -0700
+
+    changed back to withRegistry method
+
+[33mcommit 1dbab528e4197dd216bbff0728e4900e26051344[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 21:25:36 2022 -0700
+
+    changed method to youtube dudes
+
+[33mcommit 837ab3f152ccf998197815a1b16a11976b21e4d0[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 21:02:41 2022 -0700
+
+    changed to dockerjenkins for login
+
+[33mcommit 283072cfa5354ea44069d68927c6ea12391910e3[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 18:47:12 2022 -0700
+
+    changed image to maven jdk 11 slim
+
+[33mcommit 0280f22378edd40de47b6149d746d90282a9b0e4[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 18:14:13 2022 -0700
+
+    del v1 docker reg url del test 19 to trigger build
+
+[33mcommit d8539a7d6e4dd20367e29b82a54a42d335adaf9e[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 17:57:15 2022 -0700
+
+    switched in worker multibranch pipeline dockerlogin credentials test 19 to trigger build
+
+[33mcommit 67a43eb6b5c23f1381df0a9c8f2a42ef6f6cb1d7[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 17:51:27 2022 -0700
+
+    renamed docker login jenkins global credentials id to dockerlogin to match worker jenkinsfile test 18 to trigger build
+
+[33mcommit 8fe573f356e51fa59bddec00e84d268d368e1930[m
+Author: eric <ericegan@live.com>
+Date:   Wed Apr 13 15:58:10 2022 -0700
+
+    added port mappings to setup yaml now test 17 to trigger build
+
+[33mcommit c65c2fd547ae5ba342aa1e6b18171d888e0d72f8[m
+Author: eric <ericegan@live.com>
+Date:   Fri Apr 8 12:52:35 2022 -0700
+
+    switched back to dockeriov1
+
+[33mcommit c564235374544810f087a85ed1e5e72d75cf32ca[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 21:02:02 2022 -0700
+
+    deleted worker class
+
+[33mcommit 2d226e0f485fccad0a5805b2db10fcee042ac8a6[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 20:55:52 2022 -0700
+
+    reset head back
+
+[33mcommit 329081b7198755b9faeb4b2995792b4479e9bdb1[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 20:21:37 2022 -0700
+
+    add 7th worker test to trigger master
+
+[33mcommit 7c339ad9cea5b07e3fe21a9d031da35a1ad53c1b[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 20:19:40 2022 -0700
+
+    add 6th worker test to trigger master
+
+[33mcommit b4090becfe0cdc37ecadfe6629ee311aa9ca990e[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 20:18:08 2022 -0700
+
+    indexdockerio v1 to v2 worker jenfile
+
+[33mcommit a002e809a5f260c887624fe3b69cc55858892957[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 20:14:06 2022 -0700
+
+    added 5th test to result to trigger build
+
+[33mcommit e9a02f169fc93ed771a79e784863ab8967ec0ec0[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 19:44:57 2022 -0700
+
+    added resultvoteworker jenfile and workdockfile
+
+[33mcommit 64f25fecd75a47b22b3c6acabb7cd68e30ccb5f8[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 18:43:29 2022 -0700
+
+    fixed added test in worker src to test master build
+
+[33mcommit e7a6e0322baac64c1e5b3b76247c22a858251431[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 18:32:39 2022 -0700
+
+    added test in worker src to test master build
+
+[33mcommit 19c25cfcafe2388dcc883c23efb61947a148cf7e[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 17:49:12 2022 -0700
+
+    attempted fix replaced double quotes line 40 worker jfile
+
+[33mcommit 551bfe717d242fafe63d5159f0d93b7a01669334[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 16:52:12 2022 -0700
+
+    added result Jfile
+
+[33mcommit 57ef92fcafcb98674d971ade039c0a3ad1f37ab9[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 13:06:19 2022 -0700
+
+    added 2 to Readme to trigger build
+
+[33mcommit ca8341d487c942c9a77800edd69a24bf58076e5d[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 12:58:20 2022 -0700
+
+    replaced xxxxx with okapetanios in worker jfile
+
+[33mcommit 24d837b599282cd605c39dad92acc8825f788672[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 12:55:50 2022 -0700
+
+    added 1 to bottom of readme to test master build trigger"
+
+[33mcommit e155d057a515694ded90f3cd06de31045b38970a[m
+Author: eric <ericegan@live.com>
+Date:   Thu Apr 7 12:51:34 2022 -0700
+
+    added worker jenkinsfile
+
+[33mcommit 7549c81b1854ce5e464ae98a38427342560baac2[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Thu Jan 7 18:34:54 2021 +0530
+
+    update sonar project properties
+    
+    - add sonar org to make it compliant with sonar cloud
+    - scan only worker repo
+
+[33mcommit c34e083ad3d5d8a34183cfcd2dae133233edd336[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Thu Jan 7 18:32:58 2021 +0530
+
+    Update sonar-project.properties
+
+[33mcommit 396837485420cfa73151f3cff7e8e6b93e77b09f[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Wed Dec 30 11:58:05 2020 +0530
+
+    updated Dockerfile with my fixes
+
+[33mcommit cd570f3458b6daf0fff7f5e32f5c4a43817aa228[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Fri Aug 2 16:20:50 2019 +0530
+
+    added dep on python nose
+    
+    install python nose
+
+[33mcommit 2a35fe88806956c5ecc407640edced36174a0fd5[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jul 8 20:14:31 2019 +0530
+
+    fixed e2e test run
+
+[33mcommit 8b442e42fbfcdb776316583a110f145450c307c3[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Fri Jul 5 19:36:28 2019 +0530
+
+    added integration test script
+
+[33mcommit fde26ef450d11528eee98c21d81175288e1e6db9[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 25 15:06:21 2019 +0530
+
+    remove compose spec
+
+[33mcommit e115e2884455734d3308b9ed8f04158b5b75e762[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Thu Jun 6 11:55:56 2019 +0530
+
+    - refactored and renamed  docker-compose for e2e tests
+    - compose now reads list of images from .env file
+    - refactored e2e tests script, which can now run from any starting state of vote counts
+    - e2e tests now run with bash insteaead of sh
+
+[33mcommit 8abaec0953bcb517808defe5d019c70f1effb4b2[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Wed Jun 5 20:56:59 2019 +0530
+
+    added unit tests for results nodejs app
+
+[33mcommit cad61c5b00225c026094bc0f2436b35594df2acc[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Wed Jun 5 09:26:09 2019 +0530
+
+    adding sonarqube scanner propoerty files
+
+[33mcommit 0341b3e452c923fbdb18e427983406bdeb62d47f[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 10:24:39 2019 +0000
+
+    make unit test file names comppliant with mvn path convention
+
+[33mcommit aa98ac260aa09db707f63f78efca20d4943f2e16[m
+Merge: a8aabe3 f92bcd2
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 10:13:39 2019 +0000
+
+    Merge branch 'master' of https://github.com/schoolofdevops/example-voting-app
+
+[33mcommit a8aabe3c62657f8fe6155dc91a27b2c26446dc82[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 10:11:57 2019 +0000
+
+    added mock unit tests for worker
+
+[33mcommit f92bcd234e8406093e5ffd521f40de13f6fe48b8[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 14:12:00 2019 +0530
+
+    moved results/tests to e2e
+
+[33mcommit 1de6338589d0906a29b8f43ec0e2697cc2a96581[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 14:06:07 2019 +0530
+
+    delete Jenkinsfile
+
+[33mcommit ad66d83acc9b4e2d2aa0c293b50ed2a10cef3a2f[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 14:02:32 2019 +0530
+
+    added unit tests for frontend
+
+[33mcommit dc35d7de91449fba555719e6c957fd54063fab03[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 4 12:00:29 2019 +0530
+
+    use node:8.16.0-jessie-slim to build tests image
+    
+    bump up the node version for tests image
+
+[33mcommit ace491d4a7939141240ff40d8c0a4bd76f1333bc[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jan 15 12:46:20 2019 +0530
+
+    added compose specs with version 3
+
+[33mcommit 9852470d6b9cd902995bc012bc5b5cd96c08e56a[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Aug 13 11:59:58 2018 +0530
+
+    openshift version 1
+
+[33mcommit 64c7d398ce3c3032188fcdb800c8e5f22a609543[m
+Merge: 2877d91 b832e37
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Aug 13 11:53:38 2018 +0530
+
+    Merge branch 'master' of https://github.com/dockersamples/example-voting-app
+
+[33mcommit b832e3786496c65d9ba505706864f78067911d7a[m
+Author: spara <spara@github.com>
+Date:   Mon Jul 30 11:23:50 2018 -0500
+
+    added Jenkinsfile
+
+[33mcommit a56b748832ef7fc6e66065394dd693c0a9bfa657[m
+Author: spara <spara@github.com>
+Date:   Mon Jul 30 11:20:25 2018 -0500
+
+    updated .gitignore
+
+[33mcommit 2877d91767cc471163545c55702cea9d9c5e8271[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sun Jul 29 20:55:15 2018 +0530
+
+    removing Dockerfiles for worker, to be created during the course
+
+[33mcommit 87eddc6aff937fe46000ecb7ee6cb56b1d4d5b4f[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sun Jul 29 20:49:39 2018 +0530
+
+    removing all compose and k8s files for trainign
+
+[33mcommit 2ffe2007b65dbf70b7de402e5ea75850262d30b1[m
+Merge: 91b9376 d7b6bad
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sun Jul 29 20:44:48 2018 +0530
+
+    Merge branch 'master' of https://github.com/dockersamples/example-voting-app
+
+[33mcommit d7b6bad9b1984fb4b09c04f84cd57317dd1ffba1[m
+Merge: be88b97 0e4a079
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Jul 17 11:12:41 2018 -0700
+
+    Merge pull request #115 from salvatoris/patch-1
+    
+    Fix typo in the comment
+
+[33mcommit 0e4a0796911a40b30925cd8e18d1ac4fce55c9bc[m
+Author: Rodion Fedorov <rodionfedorov2016@gmail.com>
+Date:   Tue Jul 17 20:49:40 2018 +0300
+
+    Fix typo in the comment
+
+[33mcommit be88b97db1c58c7caf1b93681ac543eb4d36449c[m
+Merge: e3eb2db 0fd383c
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Mar 20 12:54:03 2018 -0700
+
+    Merge pull request #107 from lucj/master
+    
+    Add k8s specifications
+
+[33mcommit 91b9376457d701f08819085d606be7e3a03d35da[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sat Mar 17 11:13:33 2018 +0000
+
+    v5
+
+[33mcommit 8e81c103cd8bf9fff67f05b19e198a54e4067306[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sat Mar 17 11:01:19 2018 +0000
+
+    v3 color change
+
+[33mcommit cb7a27e139e2eb36cdf67cbb3253da23bd964ca4[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sat Mar 17 05:36:46 2018 +0000
+
+    v3
+
+[33mcommit 693654a7a9c2202bbc077a360ffe70b8a461ce25[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sat Mar 17 05:35:00 2018 +0000
+
+    v2
+
+[33mcommit e4a430653287619889c917c36315a3a18f6753c7[m
+Merge: 20c5c66 e3eb2db
+Author: Gourav Shah <gs@initcron.org>
+Date:   Sat Mar 17 05:11:32 2018 +0000
+
+    Merge branch 'master' of https://github.com/dockersamples/example-voting-app
+
+[33mcommit 0fd383ce27ee517e2cd7e6c7221c31010500c2ed[m
+Author: Luc Juggery <luc.juggery@gmail.com>
+Date:   Mon Mar 5 12:57:48 2018 +0100
+
+    Add k8s specfications
+
+[33mcommit e3eb2dbd2ac621b0b6f9bfde9c9c7924e78d905f[m
+Merge: 2cd3d55 b74cf0e
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Feb 1 15:37:33 2018 -0800
+
+    Merge pull request #104 from gabrielvv/master
+    
+    missing path module and console.err -> console.error
+
+[33mcommit b74cf0e9733fcbc1429b79fc2634e7bb74a8b9aa[m
+Author: gabrielvv <gabrielvautrin@gmail.com>
+Date:   Sat Jan 6 22:25:21 2018 +0100
+
+    missing path module and console.err -> console.error
+
+[33mcommit 2cd3d55fb81e7aa9a19adaa3d52a695c3313eb68[m
+Merge: ae9ea75 a8daa2d
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Jan 4 10:25:19 2018 -0800
+
+    Merge pull request #100 from thaJeztah/fix-javaworker-result
+    
+    Fix javaworker result service not starting
+
+[33mcommit ae9ea759bc67c0acd4d2ab8f9638030fee850207[m
+Merge: e5dfa47 45788a5
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Jan 4 10:25:01 2018 -0800
+
+    Merge pull request #101 from thaJeztah/improve-result-dockerfile
+    
+    Optimize result image
+
+[33mcommit e5dfa4747b45e0208761639669644fa3b2a0f2cc[m
+Merge: 762543a 8b6432d
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Jan 4 10:24:25 2018 -0800
+
+    Merge pull request #102 from thaJeztah/improve-java-worker
+    
+    Optimize java-worker image
+
+[33mcommit 8b6432d58d8de367bb54a9b54c32927f5dd7c550[m
+Author: Sebastiaan van Stijn <github@gone.nl>
+Date:   Thu Jan 4 12:28:11 2018 +0100
+
+    Optimize java-worker image
+    
+    This patch optimizes the java-worker image;
+    
+    - Use multi-stage build to separate the build-stage from the "deploy" stage
+    - Switch to the official Maven image, instead of manual installation of Maven.
+      The official Maven image is also based on the `openjdk` repository on Docker
+      Hub, which replaces the (now deprecated) `java` repository.
+    - Use `COPY` instead of `ADD` to follow best-practice
+    - Add `-XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap` arguments
+      so that JAVA will take memory-limits into account
+    - Use a JRE base image for the final build-stage
+    
+    This change brings the size of the final image down from 184MB to 87MB
+    
+    Signed-off-by: Sebastiaan van Stijn <github@gone.nl>
+
+[33mcommit 45788a5f1c20959b40e992d9b06de1b5d138154d[m
+Author: Sebastiaan van Stijn <github@gone.nl>
+Date:   Thu Jan 4 12:22:17 2018 +0100
+
+    Optimize result image
+    
+    This patch makes some optimizations in the result service's image;
+    
+    - switch to `node:8.9-alpine`, which a smaller base image
+    - use `https://` for the registry
+    - use `COPY` instead of `ADD`, following best pracice
+    - cleanup npm cache, and combine steps to reduce image size
+    
+    These changes bring down the image size from 248MB to 81.2MB
+    
+    Signed-off-by: Sebastiaan van Stijn <github@gone.nl>
+
+[33mcommit a8daa2d95698173fd21109984ccf000f753565c1[m
+Author: Sebastiaan van Stijn <github@gone.nl>
+Date:   Thu Jan 4 11:46:57 2018 +0100
+
+    Fix javaworker result service not starting
+    
+    The `--debug` option is deprecated and caused the result
+    service to not start:
+    
+        result_1  | [nodemon] 1.14.7
+        result_1  | [nodemon] to restart at any time, enter `rs`
+        result_1  | [nodemon] watching: *.*
+        result_1  | [nodemon] starting `node --debug server.js`
+        result_1  | (node:20) [DEP0062] DeprecationWarning: `node --debug` and `node --debug-brk` are invalid. Please use `node --inspect` or `node --inspect-brk` instead.
+        result_1  | [nodemon] app crashed - waiting for file changes before starting...
+    
+    This patch removes the `--debug` option, as it's not needed,
+    and no longer present in the other example stacks.
+    
+    Signed-off-by: Sebastiaan van Stijn <github@gone.nl>
+
+[33mcommit 762543a06dcb9e773e849b4f55ed84afcae505b5[m
+Merge: 9652ca5 8db887e
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Dec 14 10:14:27 2017 -0800
+
+    Merge pull request #98 from akimd/shellcheck
+    
+    tests: please shellcheck
+
+[33mcommit 8db887ee3ac9c231e0ae6a771f2e8f02650c57c5[m
+Author: Akim Demaille <akim.demaille@docker.com>
+Date:   Thu Dec 14 10:49:06 2017 +0100
+
+    tests: please shellcheck
+    
+    Signed-off-by: Akim Demaille <akim.demaille@docker.com>
+
+[33mcommit 9652ca5e1ce93279d66aeba697c5ca077423ffb8[m
+Merge: 86aa3af c2eeb7a
+Author: Mano Marks <mmarks@google.com>
+Date:   Wed Nov 29 11:39:59 2017 -0800
+
+    Merge pull request #89 from oherrala/redisconn
+    
+    Don't lose Redis connection on reconnect
+
+[33mcommit 86aa3afa7baff3da24375c32d0a4ce5812f72766[m
+Merge: f803307 0f9eee5
+Author: Mano Marks <mmarks@google.com>
+Date:   Wed Nov 29 11:30:43 2017 -0800
+
+    Merge pull request #87 from ikisusi/startup-order
+    
+    fix start-up order, depend worker on redis in docker-compose.yml
+
+[33mcommit f803307f5f8256534a732178fe1ccb5a87d02971[m
+Merge: b380900 ee4eeba
+Author: Mano Marks <mmarks@google.com>
+Date:   Wed Nov 29 10:49:15 2017 -0800
+
+    Merge pull request #96 from ManoMarks/master
+    
+    adding warning about switching to Linux containers
+
+[33mcommit ee4eebab16a577b6ede79ca3933b0d0f19e1b4c0[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Wed Nov 29 10:47:53 2017 -0800
+
+    adding warning about switching to Linux containers
+
+[33mcommit b380900fac18b0a1bffad824d73d43f1d8af5624[m
+Merge: 9785312 cfb85ea
+Author: Mano Marks <mmarks@google.com>
+Date:   Wed Nov 29 10:45:11 2017 -0800
+
+    Merge pull request #95 from ManoMarks/master
+    
+    removing --debug flag from nodemon
+
+[33mcommit cfb85eabc0e054e79cd40297a309052a5cdfcb38[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Wed Nov 29 10:43:31 2017 -0800
+
+    removing --debug flag from nodemon
+
+[33mcommit 9785312bf5acbe8b79fe4352732967e915544461[m
+Merge: 3a55399 3ab5145
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 21 13:37:49 2017 -0800
+
+    Merge pull request #90 from ubinix-warun/master
+    
+    Patched: .NET 2.0.0 SDK for Worker
+
+[33mcommit 3a5539927b75049d66f2f9274145411930808116[m
+Merge: 5d9127d ea465a7
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 21 13:37:17 2017 -0800
+
+    Merge pull request #92 from BretFisher/master
+    
+    prevent dotnet worker from consuming all cpu
+
+[33mcommit ea465a712d97e957b3419a9f241f3701529f1426[m
+Merge: f664995 5d9127d
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 21 13:36:41 2017 -0800
+
+    Merge branch 'master' into master
+
+[33mcommit f664995f257da009af5db323cf7489e079e233e0[m
+Merge: 9fa3e43 5d9127d
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 21 13:36:04 2017 -0800
+
+    Merge branch 'master' into master
+
+[33mcommit 5d9127d1524fe5f53895d9121ae6831ec11ab8a0[m
+Merge: a58579e ddd39f1
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 21 13:34:59 2017 -0800
+
+    Merge pull request #93 from BretFisher/result-test-fix-and-node-update
+    
+    updating result app node version and fixing tests
+
+[33mcommit ddd39f1699eac0603554a8d0d2b7ce98581be357[m
+Author: Bret Fisher <bret@bretfisher.com>
+Date:   Tue Nov 21 13:48:10 2017 -0500
+
+    updating node versions and fixing result tests
+
+[33mcommit 9fa3e4360f4cc5dff2e6f7c592102d933b54fe65[m
+Author: Bret Fisher <bret@bretfisher.com>
+Date:   Tue Nov 21 04:35:01 2017 -0500
+
+    updating node versions and fixing result tests
+
+[33mcommit f5a84ab40fc590bf29b3b55dad821682fcf04872[m
+Author: Bret Fisher <bret@bretfisher.com>
+Date:   Tue Nov 21 02:11:55 2017 -0500
+
+    prevent dotnet worker from consuming all cpu
+
+[33mcommit 3ab5145d4df40c1ecae05d11be3cd368172e3d39[m
+Author: ubinix-warun <warun@ubinix.com>
+Date:   Mon Oct 2 11:50:53 2017 +0700
+
+    FEATURED: .NET 2.0.0 SDK for Worker
+
+[33mcommit c2eeb7ab735c504a317c415c6766d2e927e4a9b2[m
+Author: Ossi Herrala <oherrala@iki.fi>
+Date:   Sun Oct 1 17:26:01 2017 +0300
+
+    Don't lose Redis connection on reconnect
+    
+    Keep Redis connection stored so that it's not lost and we avoid
+    reconnecting all the time.
+
+[33mcommit 0f9eee5879ad41ca0ddbc89d208dc541a70248bf[m
+Author: Marko Laakso <fenris@iki.fi>
+Date:   Sun Oct 1 14:36:10 2017 +0300
+
+    fix start-up order, depend worker on redis in docker-compose.yml
+
+[33mcommit a58579e442d7f8998faf642ba882179e3b469d32[m
+Author: Mano Marks <mmarks@google.com>
+Date:   Fri Jul 21 14:05:21 2017 -0700
+
+    Update docker-stack.yml
+
+[33mcommit 44efef623cdfcc7853a3bc4c006465ea8341b6c3[m
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu May 4 13:30:48 2017 -0700
+
+    Update ISSUE_TEMPLATE
+
+[33mcommit 28a509b73669dbb60a9d0127ded5492c06e9b360[m
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu May 4 13:30:03 2017 -0700
+
+    Create ISSUE_TEMPLATE
+
+[33mcommit 0d4d850d88a432bc20cc7d4108d3b417ee357ece[m
+Merge: c33b6ae 5be0813
+Author: Mano Marks <mmarks@google.com>
+Date:   Fri Apr 7 12:34:39 2017 -0700
+
+    Merge pull request #78 from ManoMarks/master
+    
+    updating to latest version of dotnet
+
+[33mcommit 5be08134832432c83388ea64e5417e64cd7efc37[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Fri Apr 7 12:33:22 2017 -0700
+
+    updating to latest version of dotnet
+
+[33mcommit 20c5c668a753a635adbc2abeb52860e152b8dfed[m
+Merge: 096a6b3 c33b6ae
+Author: Gourav Shah <gs@initcron.org>
+Date:   Wed Feb 1 09:49:52 2017 +0530
+
+    Merge branch 'master' of https://github.com/docker/example-voting-app into upstream
+    
+    Conflicts:
+            docker-compose-dotnetworker.yml
+
+[33mcommit c33b6ae23b1e29c9c35b1ae758ae6eb44a303712[m
+Merge: 14ba5b9 45eb3aa
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Jan 31 08:22:32 2017 -0800
+
+    Merge pull request #67 from marcosnils/patch-2
+    
+    Update replicas to 1 in result service
+
+[33mcommit 45eb3aaf9d8373294936ddb4aff0d3b5ea023553[m
+Author: Marcos Nils <marcosnils@gmail.com>
+Date:   Tue Jan 31 08:40:55 2017 -0300
+
+    Update replicas to 1 in result service
+    
+    If a loadbalancer is used for this service, then socket.io will fail as the session will be created only in one container.
+
+[33mcommit 14ba5b9cb3acb4cc7ebf682448711f651f2d13fb[m
+Merge: 36ff673 8666fce
+Author: Sophia Parafina <spara@users.noreply.github.com>
+Date:   Wed Jan 25 14:32:11 2017 -0600
+
+    Merge pull request #62 from ManoMarks/master
+    
+    adding a placement constraint on visualizer
+
+[33mcommit 8666fce704d4f2a32917086cfa4935a0ad88aa63[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Wed Jan 25 12:29:38 2017 -0800
+
+    adding a placement constraint on visualizer so it runs on a manager node
+
+[33mcommit 36ff67346371158cc17443632e307f3305c8e690[m
+Merge: 96e20cf a01d01d
+Author: Sophia Parafina <spara@users.noreply.github.com>
+Date:   Tue Jan 24 14:50:38 2017 -0600
+
+    Merge pull request #61 from ManoMarks/master
+    
+    updating compose files to v3
+
+[33mcommit a01d01da6307dbf05f374ed4fb7ed15164576718[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Jan 24 12:48:36 2017 -0800
+
+    Updating title of app
+
+[33mcommit 88d606ed5851b08e15f102b19a39d291b5c708c9[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Jan 24 12:47:35 2017 -0800
+
+    Updating README to include stack deploy instructions
+
+[33mcommit 1d7bae103b4540ea4dbedc520dc6d810efe951bd[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Jan 23 17:44:16 2017 -0800
+
+    updating compose files to v3
+
+[33mcommit 96e20cf595cebda854605c70b460023dd38865a1[m
+Merge: 21781de 34fecbf
+Author: Mano Marks <mmarks@google.com>
+Date:   Fri Jan 20 17:03:47 2017 -0800
+
+    Merge pull request #51 from mbelsak/master
+    
+    Establishe redis connection after its lost after a few minutes
+
+[33mcommit 21781de893e6037542502dc57f517d415aef5809[m
+Merge: 8e798de 81f18a2
+Author: Mano Marks <mmarks@google.com>
+Date:   Fri Jan 20 15:12:37 2017 -0800
+
+    Merge pull request #57 from ggtools/patch-1
+    
+    Fix docker-compose-javawork.yml
+
+[33mcommit 8e798dec3ad66769bc9e86d9179c8b338d074866[m
+Merge: 006f294 67e2e08
+Author: Mano Marks <mmarks@google.com>
+Date:   Fri Jan 20 14:08:50 2017 -0800
+
+    Merge pull request #60 from docker/duplicate_key
+    
+    note about one vote per client
+
+[33mcommit 67e2e0800fc0405fc61c0fb8d78c7ae3b93e48be[m
+Author: sophia parafina <sophia.parafina@docker.com>
+Date:   Fri Jan 20 15:58:22 2017 -0600
+
+    note about one vote per client
+
+[33mcommit 006f294799ae47ea6ae238d0322d569601f9d4c5[m
+Merge: 0334f60 d53ab16
+Author: Mano Marks <mmarks@google.com>
+Date:   Wed Jan 18 09:46:32 2017 -0800
+
+    Merge pull request #58 from ManoMarks/stack
+    
+    Adding in docker-stack.yml
+
+[33mcommit 81f18a27f65ad06d8bdb3df8e556c81498c53bf9[m
+Author: Christophe Labouisse <christophe@labouisse.org>
+Date:   Sun Jan 15 22:25:58 2017 +0100
+
+    Fix docker-compose-javawork.yml
+    
+    With docker-compose 1.10-rc1 build from this file was failing. Fix this by using the new build syntax with explicit `context` & `dockerfile`.
+
+[33mcommit d53ab169ac9a65ccf5094a9784f9d4fc3c55c0fe[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Fri Jan 13 18:15:26 2017 -0800
+
+    adding placement restraint to add visualizer, must run on a manager
+
+[33mcommit a34564cb55f94c0ae622baf60577bf7c016ea7c9[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Jan 10 18:29:36 2017 -0800
+
+    updating to use dockersamples/visualizer:stable instead of manomarks/visualizer
+
+[33mcommit 0285545512094caa6b2b43774d8a36c853d34839[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Jan 10 17:57:43 2017 -0800
+
+    adding before tag to vote and result images
+
+[33mcommit fc316a130ae2e81fb4d2505b629c13ab8a4c7f39[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Jan 9 14:44:01 2017 -0800
+
+    adding a line where one was missing
+
+[33mcommit 4743b464a67d7363cfc4358efdf876ce5758dd35[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Jan 9 14:42:37 2017 -0800
+
+    changing docker-stack.yml to more closely match the rest of the app, and add a visualizer
+
+[33mcommit 48bdf363369ebadc0e08e10957cb05883eab3f8b[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Jan 9 14:23:30 2017 -0800
+
+    adding docker-stack.yml
+
+[33mcommit 096a6b378b36a39f4e13555410d57bb697e06cb0[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jan 3 11:57:22 2017 +0530
+
+    misc fixes
+
+[33mcommit d4f0caa14799f5e029f794bfa29dbd5b09bbd0b7[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jan 3 11:43:32 2017 +0530
+
+    customzed version of voteapp
+
+[33mcommit 0334f60f3e9e2942e1e8fa071089095880d3ed5f[m
+Merge: feacab9 9352ed0
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Dec 27 10:08:09 2016 -0800
+
+    Merge pull request #56 from docker/revert-54-connection_pooling
+    
+    Revert "added connection pooling to postgres to prevent client timeouts"
+
+[33mcommit 9352ed09ebcb8ac6805afd32d2fe01daee8f169d[m
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Dec 27 10:07:14 2016 -0800
+
+    Revert "added connection pooling to postgres to prevent client timeouts"
+
+[33mcommit feacab96f6a2a41f2496b22ca1ca010a83baadae[m
+Merge: 7d759f0 de9d653
+Author: Mano Marks <mmarks@google.com>
+Date:   Mon Dec 12 14:17:41 2016 -0800
+
+    Merge pull request #54 from spara/connection_pooling
+    
+    added connection pooling to postgres to prevent client timeouts
+
+[33mcommit de9d6531ecc270665f37df3783c7d6f1670d6a18[m
+Author: sophia parafina <sophia.parafina@docker.com>
+Date:   Mon Dec 12 15:37:28 2016 -0600
+
+    added connection pooling to postgres to prevent client timeouts
+
+[33mcommit 34fecbf1fd66de828dcf27077bb490e35d6bf17a[m
+Author: Manuel Belsak <manuel.belsak@accenture.com>
+Date:   Wed Nov 30 13:59:21 2016 +0000
+
+    Establishe redis connection after its lost after a few minutes
+
+[33mcommit 7d759f04eda53bdb1e4ea38784f4678d0e105957[m
+Merge: be5173b fe98cde
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 15 14:58:06 2016 -0800
+
+    Merge pull request #50 from ManoMarks/aanand-restore-java-worker
+    
+    Java and .NET Workers can co-exist
+
+[33mcommit fe98cde7f47babebaa502412234ee5a009f4b543[m
+Merge: be5173b 0d5cd2b
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Nov 15 14:56:00 2016 -0800
+
+    Java and .NET Workers can co-exist
+    Added a docker-compose-javaworker.yml file and Dockerfile.j as well as restoring the worker Java source so there are two different versions now.
+
+[33mcommit be5173b11bdbfd894714afc4b2760472d1d785fb[m
+Merge: 7f5e835 d7fb287
+Author: Mano Marks <mmarks@google.com>
+Date:   Tue Nov 15 12:10:48 2016 -0800
+
+    Merge pull request #44 from ManoMarks/master
+    
+    updating .NET to current version 1.0.0 in Dockerfile and in code
+
+[33mcommit 7f5e83565abd8e84a0e944286910ce9e677b39ca[m
+Merge: af9f2fe c0affba
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Nov 10 12:49:15 2016 -0800
+
+    Merge pull request #47 from docker/revert-45-resultapp
+    
+    Revert "Labels changes according to options"
+
+[33mcommit c0affbaeaf70b7b522cf4c34a4ecc4797e509b90[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Nov 10 20:48:25 2016 +0000
+
+    Revert "Labels changes according to options"
+
+[33mcommit af9f2fec689f82ea6d8ca4c840c064b7d6dcdb1e[m
+Merge: fb98129 fba7358
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Nov 3 11:01:50 2016 -0700
+
+    Merge pull request #45 from mohan08p/resultapp
+    
+    Labels changes according to options
+
+[33mcommit fba7358d8d8efda6ddb514959effd3a71f2f39d9[m
+Author: Mohan Pawar <mohanpawary1990@gmail.com>
+Date:   Thu Nov 3 05:46:52 2016 +0000
+
+    Labels changes according to options
+
+[33mcommit d7fb287f613864930cd23098ecb36ddb6e6dfd75[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Oct 31 15:44:27 2016 -0700
+
+    updating .NET to current version 1.0.0 in Dockerfile and in code
+
+[33mcommit fb981298cd889d4482576c028891dff8ccaf4879[m
+Merge: ed73c0c 1b30ff6
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Oct 24 19:22:10 2016 +0200
+
+    Merge pull request #42 from bfirsh/add-mano-as-maintainer
+    
+    Add Mano as a maintainer
+
+[33mcommit 1b30ff68805b5b57c892a8a8180617224de690cf[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Oct 20 10:25:10 2016 +0200
+
+    Add Mano as a maintainer
+    
+    /cc @aanand @manomarks
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit ed73c0c428678b6bb2600fc38127ed28a5997dfc[m
+Merge: 4065c3e 5181547
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Wed Oct 19 07:57:29 2016 +0100
+
+    Merge pull request #40 from ManoMarks/master
+    
+    Adding additional compose file
+
+[33mcommit 51815474ff2c566df5b205bfeb410312c7103618[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue Oct 11 16:24:49 2016 -0700
+
+    moved docker-compose.yml to docker-compose-simple.yml and restored older version of docker-compose.yml with networks and volumes
+
+[33mcommit 4065c3e61dc823d7f82a166b9dccbd95a8254781[m
+Merge: a62d605 66e2d1d
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Sep 26 16:41:14 2016 +0100
+
+    Merge pull request #37 from docker/revert-36-master
+    
+    Revert "Updating Worker Dockerfile"
+
+[33mcommit 66e2d1df2bf724e7e85cad6c5e18e194b5bdb96d[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Sep 26 16:41:04 2016 +0100
+
+    Revert "Updating Worker Dockerfile"
+
+[33mcommit a62d605e871a754ffa4bdd8e6f72e3263b2e2c2b[m
+Merge: b2f740d 5379644
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Sep 23 10:56:05 2016 +0100
+
+    Merge pull request #36 from ManoMarks/master
+    
+    Updating Worker Dockerfile
+
+[33mcommit 53796441698b6de4b7420dd69fa1e8a5565e7e4a[m
+Author: Mano Marks <mmarks@google.com>
+Date:   Thu Sep 22 13:25:11 2016 -0700
+
+    Updating Worker Dockerfile
+    
+    Changing base image to Microsoft's release version
+
+[33mcommit b2f740d13fbc1dba9045a3f5349a8ea304c65774[m
+Merge: 036c119 9bee7a1
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Aug 15 12:47:36 2016 +0100
+
+    Merge pull request #23 from h0tbird/amend_readme
+    
+    Replace Java with .NET
+
+[33mcommit 0d5cd2bd99978959cde26c443199afb6f9222214[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Thu Jun 30 13:38:31 2016 -0700
+
+    Reword connection retry messages
+
+[33mcommit 500db05c54f025a5f94dbd34f1c2ab5487707fd1[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Thu Jun 30 13:35:10 2016 -0700
+
+    Restore Java worker
+
+[33mcommit 9bee7a15a0522fa67f6744666f76aa0edeb16d54[m
+Author: Marc Villacorta <marc.villacorta@gmail.com>
+Date:   Wed Jun 29 13:11:48 2016 +0200
+
+    Replace Java with .NET
+
+[33mcommit 036c119e2c94f8522b2978ff27a0707d7aaead3f[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Sun Jun 19 21:32:18 2016 -0700
+
+    Reword connection retry messages
+
+[33mcommit 82fd54e28f772ca37186008cc7e43363bbe0a748[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Sun Jun 19 12:14:38 2016 -0700
+
+    Update architecture diagram
+
+[33mcommit ffdd4940c6197f280722f37df35a11f028279aa7[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Sun Jun 19 11:34:14 2016 -0700
+
+    Relax result test
+
+[33mcommit d801ba9838b1baf72a29018b1f69e7cf0a095d97[m
+Merge: dea83e7 c57e9c3
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 23:19:40 2016 +0200
+
+    Merge pull request #22 from docker/fix-worker-race-condition
+    
+    Fix race condition in worker
+
+[33mcommit c57e9c315a76144552cba13ca200b89026b39141[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Sat Jun 18 14:16:32 2016 -0700
+
+    Fix race condition in worker
+
+[33mcommit dea83e7ea8138369c1857225a83e1f89552928a0[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 10:56:26 2016 -0700
+
+    Put gunicorn command in list
+
+[33mcommit 3a7eb3b4b00ab510cfe4497a66d511cbffb85f51[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 10:49:05 2016 -0700
+
+    Fix image names in dockercloud.yml
+
+[33mcommit ade2b40403701f176c465c091d00c4cf738ec37a[m
+Merge: 1a0b0c8 09279e1
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 19:32:22 2016 +0200
+
+    Merge pull request #21 from bfirsh/rename-services
+    
+    Rename services to remove "app"
+
+[33mcommit 09279e12a8fe3d50836458ef18242f255c0eef1b[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 09:14:28 2016 -0700
+
+    Rename services to remove "app"
+
+[33mcommit dd03d8937a48ea8dc6e70c5d9677e7b42d2b21d7[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 17 21:13:51 2016 -0700
+
+    Use gunicorn for voting app in prod
+
+[33mcommit 1a0b0c8b5424c3cc1a944902281a6a02c75cc66c[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 17 19:56:11 2016 -0700
+
+    Set redis socket timeout to 5s
+
+[33mcommit 4d5ce4862e283728a939bb2aeaf4f71b55993cf9[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 17 15:03:42 2016 -0700
+
+    Increase size of "processed by" text
+
+[33mcommit daaa19fa964d793eaccc690338912587edd35ba1[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Wed Jun 15 15:55:44 2016 -0700
+
+    Architecture diagram
+
+[33mcommit 8e0440b843cdae6aa51a9ec80ac3aef253255ebd[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Wed Jun 15 15:25:28 2016 -0700
+
+    Update readme
+
+[33mcommit df96dfd638b8f4108215eb0dc19943e3c05a9ade[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 10:04:44 2016 -0700
+
+    Add Node debugging
+    
+    and simplify Compose file
+
+[33mcommit 64839f70dc9d55cf2d3a4ada428cf9bd10d53d4d[m
+Merge: c6a5cc9 aa05c12
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 18:29:45 2016 +0200
+
+    Merge pull request #19 from bfirsh/vote-refactoring
+    
+    Various pieces of vote refactoring
+
+[33mcommit c6a5cc9b1c35a2b1be93d797e0362bfd8e36928e[m
+Merge: 34acff5 2d3fe7d
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sat Jun 18 18:29:31 2016 +0200
+
+    Merge pull request #20 from bfirsh/add-ci-test-for-docker-cloud
+    
+    Docker Cloud stack file and CI tests
+
+[33mcommit 2d3fe7d2999a246dcb4d0d0455ecc472f3c0be82[m
+Author: Borja Burgos <borja@tutum.co>
+Date:   Thu Jun 16 11:18:13 2016 -0700
+
+    fixing bug in dockercloud.yml
+    
+    lb was linking to the wrong service (web instead of voting-app)
+
+[33mcommit 9eccee1ac294ddaf9df172ed7fee5fd5c976d824[m
+Author: Borja Burgos <borja@tutum.co>
+Date:   Wed Jun 15 19:15:15 2016 -0700
+
+    adding dockercloud.yml
+
+[33mcommit 874a4bc79aeef71f67aa0e1c644fcb427f518948[m
+Author: Borja Burgos <borja@tutum.co>
+Date:   Wed Jun 15 19:14:55 2016 -0700
+
+    adding CI test for Docker Cloud
+
+[33mcommit aa05c12ab77fb2eb8488636633a45f9b6eaac403[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Thu Jun 9 12:18:28 2016 +0100
+
+    Always show total vote count
+
+[33mcommit 4b62828661a6e0fb2ece2ae4ea8a933263d674ce[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Thu Jun 9 11:48:19 2016 +0100
+
+    Extract vote collection function
+
+[33mcommit 1f1a6f97a2e2196f47d918e41e8194612bf489c9[m
+Author: Aanand Prasad <aanand.prasad@gmail.com>
+Date:   Thu Jun 9 11:37:30 2016 +0100
+
+    Fix percentage recalculation when both votes are zero
+
+[33mcommit 34acff585a371747e53580df559b74236e6bb159[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 17 15:02:54 2016 -0700
+
+    Run flask server multithreaded
+
+[33mcommit f029fcccc2eac9e78aadd6e0c72d7e90609f9954[m
+Merge: 6562cee e548968
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Jun 13 02:22:20 2016 +0100
+
+    Merge pull request #18 from natemcmaster/dotnet
+    
+    Implement worker as a .NET Core app
+
+[33mcommit e5489683c8674fa566c524383083e7be078a3774[m
+Author: Nate McMaster <nate.mcmaster@microsoft.com>
+Date:   Sat Jun 11 10:21:26 2016 -0700
+
+    Recreate worker as a .NET Core app
+
+[33mcommit 6562cee08cbf9e3323c3252bbbeea0a3dfb4bfe3[m
+Merge: e7b4670 5ce97c0
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 10 19:31:18 2016 +0100
+
+    Merge pull request #16 from bfirsh/lazily-connect-to-redis
+    
+    Lazily connect to Redis in voting app
+
+[33mcommit 5ce97c05fe9d7c83d3469a3c809da0b9dc6632e8[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Jun 9 18:03:32 2016 -0700
+
+    Lazily connect to Redis in voting app
+    
+    Allows voting app to boot up without anything else.
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit e7b46707bdd8ca94e79d6754104e098897f3fee7[m
+Merge: 45f5343 4cce340
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 3 23:46:53 2016 +0100
+
+    Merge pull request #15 from bfirsh/add-gitignore-remove-pyc
+    
+    Add gitignore remove pyc
+
+[33mcommit 4cce340ca6bc9d58501a6f24003428d2ed17b555[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 3 15:45:04 2016 -0700
+
+    Add .gitignore to ignore future *.pyc
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 702958b0d8c0ef84ce5e0d23abd4865d278846da[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Jun 3 15:44:49 2016 -0700
+
+    Remove .pyc file
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 45f53434db4ca9bfbb335c88038f4a883e49ffc2[m
+Merge: 10a3a3b 3978756
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Wed May 4 13:01:41 2016 +0100
+
+    Merge pull request #14 from ManoMarks/master
+    
+    Porting to Alpine images
+
+[33mcommit 3978756bb2b6d964c80c9961933818d9b0ef2687[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Tue May 3 19:35:26 2016 -0700
+
+    Moving result app to be based on node:5.11.0-slim, adding back links in docker-compose.yml, and removing explicit container names
+
+[33mcommit be0e4e2ff2d66b00168e0bbb97979de1acc7af1c[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Apr 25 12:04:59 2016 -0700
+
+    fixing app.py
+
+[33mcommit 261eb03102ae67c5770270878f84330226dc9890[m
+Author: Mano Marks <mano.marks@gmail.com>
+Date:   Mon Apr 25 11:28:21 2016 -0700
+
+    adding in improvements from when we ran the birthday party app. Mostly fixed the Dockerfiles so they use Alpine for the base images. That required re-working the Java worker Docker file. Removed links from compose file. cleaned up a few things like a tab instead of a space in app.py
+
+[33mcommit 10a3a3b68a3057a752f423ff22366fa78e30173b[m
+Merge: 7629961 e41af6b
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Fri Apr 1 18:46:05 2016 +0100
+
+    Merge pull request #12 from bfirsh/add-license-maintainers
+    
+    Add LICENSE and MAINTAINERS
+
+[33mcommit e41af6b81cdb7ad85b5ce373fe3f98003fc2d5e9[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Mar 31 11:49:23 2016 -0700
+
+    Add LICENSE and MAINTAINERS
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 7629961971ab5ca9fdfeadff52e7127bd73684a5[m
+Merge: 6aa86f6 0d19451
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Feb 4 20:27:19 2016 +0000
+
+    Merge pull request #5 from bfirsh/readme-fixes
+    
+    Readme fixes
+
+[33mcommit 0d194512465f1762e114c45bce8a42138360234b[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Feb 4 12:26:42 2016 -0800
+
+    Fix typo in image name
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit b9dc5990fa83b6637c6185ee37d732277da7022a[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Feb 4 12:26:23 2016 -0800
+
+    Remove -d from Compose command
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 6aa86f6a12bceb8aabefd3a193b52267ba11ed7f[m
+Merge: 4f9d03c bb24708
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Thu Feb 4 19:57:27 2016 +0000
+
+    Merge pull request #3 from bfirsh/compose-file-2
+    
+    Convert app to use Compose file 2
+
+[33mcommit bb247081284821c9823af17ffe5d06c25bd5297e[m
+Author: Dave Tucker <dave@dtucker.co.uk>
+Date:   Thu Jan 28 15:57:37 2016 -0800
+
+    Add Networks!
+    
+    Signed-off-by: Dave Tucker <dave@dtucker.co.uk>
+
+[33mcommit 878cdeb583b4bead0504b0bacb6bd4cf1e2abc4b[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Jan 25 18:23:19 2016 +0000
+
+    Move everything into the root directory
+    
+    The separate vote-apps directory was because networking didn't
+    used to support aliases to remove the project name.
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 94c0d7b5076bb3ed21fc472b9341e32b8fee7662[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Mon Jan 25 18:20:23 2016 +0000
+
+    Convert app to use Compose file 2
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit 4f9d03c3cc85abd4778762a289c2d966c2f39d89[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Wed Dec 9 16:57:06 2015 +0000
+
+    Add Docker Hub images to readme
+    
+    Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+
+[33mcommit a745474d3d408c66520c058628c8e0da42c692c3[m
+Merge: 87d9e8e fa48d81
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Wed Dec 9 16:56:35 2015 +0000
+
+    Merge pull request #1 from marcellodesales/master
+    
+    Update README.md with reference to the Blog
+
+[33mcommit fa48d81276cc809b1243e4fb109290cd61c2bbd7[m
+Author: Marcello de Sales <marcello.desales@gmail.com>
+Date:   Mon Nov 16 20:18:35 2015 -0800
+
+    Update README with basic architecture section
+    
+    Adding the description of the architecture extracted from the blog entry.
+
+[33mcommit 8df1d3727af04a04097fbe58dac9bea05ea3b03b[m
+Author: Marcello de Sales <marcello.desales@gmail.com>
+Date:   Mon Nov 16 20:14:53 2015 -0800
+
+    Update README.md with reference to the Blog
+    
+    This just adds the URL to the blog entry at https://blog.docker.com/2015/11/docker-toolbox-compose/
+
+[33mcommit 87d9e8e07dcf0d22e0b143752467cccecd15e0ff[m
+Author: Ben Firshman <ben@firshman.co.uk>
+Date:   Sun Nov 15 20:59:29 2015 +0100
+
+    Initial commit
