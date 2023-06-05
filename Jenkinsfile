@@ -1,6 +1,9 @@
 pipeline {
+
   agent none
+
   stages {
+    
     stage('worker-build') {
       agent {
         docker {
@@ -73,7 +76,7 @@ pipeline {
         echo 'Packaging worker app with docker'
         script {
           docker.withRegistry('https://index.docker.io/v1/', 'dockerlogin') {
-            def workerImage = docker.build("okapetanios/worker:v${env.BUILD_ID}", './worker')
+            def workerImage = docker.build("xxxxx/worker:v${env.BUILD_ID}", './worker')
             workerImage.push()
             workerImage.push("${env.BRANCH_NAME}")
             workerImage.push('latest')
@@ -132,13 +135,12 @@ pipeline {
         echo 'Packaging result app with docker'
         script {
           docker.withRegistry('https://index.docker.io/v1/', 'dockerlogin') {
-            def resultImage = docker.build("okapetanios/result:v${env.BUILD_ID}", './result')
+            def resultImage = docker.build("xxxxx/result:v${env.BUILD_ID}", './result')
             resultImage.push()
             resultImage.push("${env.BRANCH_NAME}")
             resultImage.push('latest')
           }
         }
-
       }
     }
 
@@ -205,7 +207,7 @@ pipeline {
         script {
           docker.withRegistry('https://index.docker.io/v1/', 'dockerlogin') {
             // ./vote is the path to the Dockerfile that Jenkins will find from the Github repo
-            def voteImage = docker.build("okapetanios/vote:${env.GIT_COMMIT}", "./vote")
+            def voteImage = docker.build("xxxxx/vote:${env.GIT_COMMIT}", "./vote")
             voteImage.push()
             voteImage.push("${env.BRANCH_NAME}")
             voteImage.push("latest")
@@ -215,41 +217,6 @@ pipeline {
       }
     }
 
-     
-    stage('Sonarqube') {
-      agent any
-      when {
-        changeset '**/result/**'
-        branch 'master'
-      }
-       tools {
-        jdk "JDK11" // the name you have given the JDK installation in Global Tool Configuration
-      }
-      environment {
-        sonarpath = tool 'SonarScanner'
-      }
-      steps {
-        echo 'Running Sonarqube Analysis..'
-        // TODO: ?this must match sonar server
-        withSonarQubeEnv('sonar-example-voting-app') {
-          sh "${sonarpath}/bin/sonar-scanner -Dproject.settings=sonar-project.properties -Dorg.jenkinsci.plugins.durabletask.BourneShellScript.HEARTBEAT_CHECK_INTERVAL=86400"
-        }
-
-      }
-    }
-
-    stage('Quality Gate') {
-       when {
-        changeset '**/result/**'
-        branch 'master'
-      }
-      steps {
-        timeout(time: 1, unit: 'HOURS') {
-          waitForQualityGate true
-        }
-
-      }
-    }
 
     stage('deploy to dev') {
       agent any
@@ -262,26 +229,11 @@ pipeline {
       }
     }
     
-    stage('Trigger deployment') {
-      agent any
-      environment{
-        def GIT_COMMIT = "${env.GIT_COMMIT}"
-      }
-      steps{
-        echo "${GIT_COMMIT}"
-        echo "triggering deployment"
-        // passing variables to job deployment run by github.com/eeganlf/vote-deploy/blob/master/Jenkinsfile
-        build job: 'deployment', parameters: [string(name: 'DOCKERTAG', value: GIT_COMMIT)]
-        }
-        
-        }
-  
-  
   }
+  
   post {
     always {
       echo 'Building mono pipeline for voting app is completed.'
     }
-
   }
 }
