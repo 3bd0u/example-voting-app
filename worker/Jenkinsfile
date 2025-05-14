@@ -1,11 +1,9 @@
-pipeline { 
-    agent{ 
-       docker{ 
-         image 'Maven 3.6.1' 
-         args '-v $HOME/.m2:/root/.m2' 
-       } 
-    } 
-    stages{ 
+pipeline {
+agent any
+tools{
+maven 'Maven 3.6.1'
+}
+stages{ 
         stage('build'){ 
             steps{ 
                 echo 'building worker app' 
